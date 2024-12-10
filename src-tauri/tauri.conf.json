@@ -16,7 +16,7 @@
       "iconAsTemplate": true
     },
     "allowlist": {
-      "all": false,
+      "all": true,
       "notification": {
         "all": true
       },
@@ -27,7 +27,8 @@
     },
     "windows": [
       {
-        "title": "drinkreminder",
+        "label": "drinkreminder",
+        "title": "Drink reminder",
         "width": 800,
         "height": 600
       }
